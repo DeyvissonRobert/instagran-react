@@ -1,4 +1,4 @@
-import { AiOutLineHome } from 'react-icons/ai';
+import { AiOutlineHome } from 'react-icons/ai';
 import { RiGlobalLine } from 'react-icons/ri';
 import { FiSend } from 'react-icons/fi';
 import { MdMonitor } from 'react-icons/md';
@@ -13,7 +13,7 @@ import * as C from './style';
 
 const menuNav = [
     {
-        icon: <AiOutLineHome />,
+        icon: <AiOutlineHome />,
         menuName: 'Inicio'
     },
     {
